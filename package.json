@@ -7,13 +7,10 @@
     "dev": "gulp dev"
   },
   "dependencies": {
-    "zone.js": "^0.5.2"
   },
   "devDependencies": {
-    "babel": "^5.8.21",
     "event-stream": "^3.3.1",
     "gulp": "^3.9.0",
-    "gulp-babel": "^5.2.0",
     "gulp-crisper": "0.0.5",
     "gulp-eslint": "^1.0.0",
     "typescript": "^2.0.0"
